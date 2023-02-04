@@ -1,4 +1,4 @@
-@font-face{font-family:"new-record"; src:"/fonts/new-record.ttf";}
+@font-face{font-family:"new-record"; src:url("../fonts/new-record.ttf");}
 body {
     font-family: sans-serif;
     line-height: 1.5;
