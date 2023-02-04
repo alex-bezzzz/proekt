@@ -1,3 +1,4 @@
+@font-face{font-family:"new-record"; src:"../fonts/new-record.ttf";}
 body {
     font-family: sans-serif;
     line-height: 1.5;
@@ -9,7 +10,7 @@ body {
     margin: 0 auto;
   }
   
-  h1 {
+  h1 {font-family: "new-record",monospace;
     text-align: center;
     font-size: 60px;
     margin-bottom: 0;
