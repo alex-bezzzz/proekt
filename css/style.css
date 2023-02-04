@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
   }
   
-  h1 {font-family: "new-record",monospace;
+  h1 {font-family: monospace;
     text-align: center;
     font-size: 60px;
     margin-bottom: 0;
